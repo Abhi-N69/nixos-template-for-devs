@@ -1,6 +1,6 @@
 main system for abhinav (Abhi-N69) 
 
-user: abhinav
+user: abhinavqx           
 wayland-compositor: niri
 terminal: kitty
 
