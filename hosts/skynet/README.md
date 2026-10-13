@@ -1,6 +1,6 @@
-main system for ClearlyOpaque (Hari-c137) 
+main system for abhinav (Abhi-N69) 
 
-user: x137
+user: abhinav
 wayland-compositor: niri
-terminal: wezterm
+terminal: kitty
 
