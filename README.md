@@ -1,7 +1,7 @@
 ## DOCS
 
 
-Documentation: (AI-Assisted) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hari-c137/echelon)
+Documentation: (AI-Assisted) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Hari-c137/echelon)                                                  
 For latest git changes: read source code (don't)
 
 ## system[0]:  x137@skynet
