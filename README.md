@@ -31,6 +31,5 @@ projects.
 
 This project is licensed under the [GLWTSPL](/LICENSE).
 
-![Good Luck](https://github.com/me-shaon/GLWTPL/raw/master/good-luck.gif)
+![Skynet](nixosslander.png)
 
-...and godspeed.
